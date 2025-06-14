@@ -1,0 +1,7 @@
+numpy
+scipy
+scikit-learn==1.5.2
+gdown
+cloudpickle
+seaborn
+matplotlib
